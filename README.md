@@ -1,7 +1,9 @@
 🤖 PROJET DE ROBOTIQUE : THE SHOW MUST GO ON
+
 Ce dépôt contient le code source complet d'un robot mobile piloté par une manette PS2, équipé d'un système de pinces motorisées et d'un affichage de score en temps réel.
 
 📋 Présentation du projet
+
 Le robot est piloté par un Arduino qui fait l'interface entre plusieurs composants critiques :
 Déplacement : Un contrôleur de moteur Sabertooth gérant deux moteurs en mode différentiel.  
 Contrôle : Une manette PlayStation 2 via le shield Cytron PS2.  
@@ -9,6 +11,7 @@ Affichage : Un écran Grove Alphanumeric pour le suivi des points.
 Mécanismes : Des pinces motorisées avec capteurs de fin de course pour la sécurité.  
 
 🛠️ Matériel Requis
+
 Microcontrôleur : Arduino (ou CT-UNO).  
 Shield PS2 : Cytron PS2 Shield.  
 Driver Moteur : Sabertooth (en mode Simplified Serial). 
@@ -16,6 +19,7 @@ Affichage : Grove Quad Alphanumeric Display (HT16K33).
 Manette : DualShock 2 sans fil ou filaire.  
 
 🎮 Commandes de la manette
+
 Le robot réagit aux commandes suivantes :
 
 🚀 Déplacement (Joystick Gauche)
