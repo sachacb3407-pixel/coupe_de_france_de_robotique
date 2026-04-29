@@ -1,4 +1,4 @@
-🤖 Projet Robot Mobile - V4 Orange
+🤖 PROJET DE ROBOTIQUE : THE SHOW MUST GO ON
 Ce dépôt contient le code source complet d'un robot mobile piloté par une manette PS2, équipé d'un système de pinces motorisées et d'un affichage de score en temps réel.
 
 📋 Présentation du projet
